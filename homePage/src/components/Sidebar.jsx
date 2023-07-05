@@ -14,7 +14,7 @@ export const Sidebar = ({ isOpen, setIsOpen }) => {
 					</button>
 				</div>
 				<div className='px-8 space-y-7'>
-					<ul className='flex flex-col gap-8 text-[18px] font-semibold'>
+					<ul className='flex flex-col gap-8 text-[18px] font-semibold pt-4'>
 						<li>
 							<a href='/'>Home</a>
 						</li>
